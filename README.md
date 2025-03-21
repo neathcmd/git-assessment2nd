@@ -1,4 +1,4 @@
-# Git Assesment Project
+# Git Assessment Project
 
 A collaborative project designed to learn GitHub workflows, handle pull requesres, and resovle merge conflicts.
 
