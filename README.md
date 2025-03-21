@@ -58,6 +58,5 @@ clone the project to your local machine:
 ````bash
 git clone https://github.com/Your-Username/git-assessment2nd.git
 cd git-assessment2nd
-```
 
 ````
